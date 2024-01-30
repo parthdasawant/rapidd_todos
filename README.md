@@ -2,15 +2,28 @@
 
 A new Flutter project.
 
-## Getting Started
+## Clone and Setup Instructions
 
-This project is a starting point for a Flutter application.
+1. Clone the repository to your local machine:
 
-A few resources to get you started if this is your first Flutter project:
+    ```bash
+    git clone https://github.com/parthdasawant/rapidd_todos.git
+    ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. Change to the project directory:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    ```bash
+    cd rapidd_todos
+    ```
+
+3. Install dependencies:
+
+    ```bash
+    flutter pub get
+    ```
+    
+4. Run the application
+
+   ```bash
+   flutter run
+   ```
