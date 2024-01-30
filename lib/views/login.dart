@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:rapidd_todos/views/todo_list.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 import '../viewmodels/todo_viewmodel.dart';
