@@ -1,0 +1,1 @@
+export 'package:rapidd_todos/models/todo_model.dart';
