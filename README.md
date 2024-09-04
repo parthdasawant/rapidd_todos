@@ -1,6 +1,9 @@
 # rapidd_todos
 
-A new Flutter project.
+MVP for todo app for enabling users to share, receive and update in Realtime.
+
+[![Watch the Working Demo](https://res.cloudinary.com/marcomontalbano/image/upload/v1725446198/video_to_markdown/images/youtube--GwyEu1_MlR4-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/GwyEu1_MlR4 "Working Demo")
+
 
 ## Clone and Setup Instructions
 
